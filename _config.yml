@@ -6,17 +6,20 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
-baseurl:          /
+encoding: utf-8
+title:            Deniz Eren
+tagline:          'An ordinary person'
+description:      'To follow the path:</br>look to the master,</br>follow the master,</br>walk with the master,</br>see through the master,</br>become the master.</br></br>Zen Proverb'
+url:              http://blog.denizeren.net
+baseurl:          '/'
+paginate:         5
+
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           'Deniz Eren'
+  url:            http://denizeren.net
 
 # Custom vars
 version:          1.0.0
+
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/poole/lanyon
