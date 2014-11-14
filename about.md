@@ -8,7 +8,7 @@ title: About
     * Love GNU/Linux
     * Pythonist
     * C/C++ coder
-    * Go learner
+    * Gopher
 * Software developer
     * [Labris](http://www.labrisnetworks.com)
 * Software architect 
