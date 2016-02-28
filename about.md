@@ -23,7 +23,7 @@ title: About
     * [IEEE METU](http://ieee.metu.edu.tr)
         * Taught C programming
         * Taught system administration
-* Paraglider
+* Paragliding Pilot
     * [METU HAT](http://havacilik.metu.edu.tr)
 * Karateka
     * 1 Dan black belt
